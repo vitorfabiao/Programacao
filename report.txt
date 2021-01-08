@@ -1,0 +1,155 @@
+Sala 10
+	Zu3l5mira2A7891	17	S
+	To3m5as111321	12	D	0
+	111PauloPires2	67	D	0
+	16Zulmira2A4561	17	D	0
+	Pa3u5loPires17891	23	S
+	Toma9s111456	12	D	0
+	16PauloPires14561	23	S
+	da3s5asdasd123	45	I
+	2d3a5sasdasd2222	45	I
+	Lu3i5saS6antos456	40	D	4
+	T83omas1111232	12	S
+	Zu3l8mira2A1232	17	S
+	1Til76543ioh1235	16	I
+	Til08ioh7894	16	I
+	1PauloPires2456	67	I
+	Zul8mira2A1235	17	S
+	1Tilioh72289	16	I
+	Zulm9ira2A7894	17	S
+	Tili9214325t5yoh	16	I
+	Zulm9ira2A789	17	S
+	Toma9s1117894	12	S
+	1AnaLebre34A456	55	I
+	Luis9aSantos1232	40	D	4
+	1dasasdasd123	45	I
+	16dasasdasd7891	45	I
+	Zu35lmira2A4561	17	S
+	Pa3u5loPires2321	67	I
+	Lu3i56saSantos123	40	D	4
+	Zulm9ira2A	17	S
+	11PauloPires1789	23	S
+	das08asdasd3	45	I
+	Pa3345ulo22Pires2789C	67	S
+	Paul99oPires24561	67	S
+	da3s5asdasd7891	45	I
+	16Tomas1117894	12	S
+	Paul9oPires27891	67	S
+	16Tilioh7894	16	I
+	1Tomas1117891	12	S
+	Tomas91111235	12	S
+	Ti3l5ioh7891	16	I
+	Pau08loPires14565	23	S
+	16PauloPires21232	67	S
+	11Ti5lioh555	16	I
+	Zu67l8mira2A3	17	S
+	Zu3l5mira2A321	17	S
+	da3s5asdasd321	45	I
+	To3m5as1114561	12	S
+	1Tomas111456	12	S
+	An3a5Lebre34A7891	55	I
+	Luis99aSantos123	40	D	4
+	--------------------------
+	Taxa de Saudaveis: 48.00 % 
+	Taxa de Imunes: 36.00  % 
+	Taxa de Doentes: 16.00 % 
+
+Sala 20
+	Paul9oPires1123	23	S
+	An3a5Lebre34A4561	55	I
+	16dasasdasd4561	45	I
+	16dasasdasd1232	45	I
+	Til8ioh555	16	I
+	--------------------------
+	Taxa de Saudaveis: 20.00 % 
+	Taxa de Imunes: 80.00  % 
+	Taxa de Doentes: 0.00 % 
+
+Sala 30
+	1Zulmira2A	17	D	0
+	Til234234i9oh4561	16	I
+	Luis9aSantos321	40	D	4
+	Luis9aSantos3	40	D	4
+	1LuisaSantos123	40	D	4
+	Toma9s1114561	12	D	0
+	1dasasdasd456	45	I
+	Paul99oPires14561	23	S
+	116PauloPires23	67	S
+	AnaL9ebre34A321	55	I
+	AnaL9ebre34A3	55	I
+	1LuisaSantos321	40	D	4
+	Pa35uloPires11232	23	D	0
+	A838naLebre34A1232	55	I
+	AnaL9ebre34A123	55	I
+	dasa9sdasd321	45	I
+	Tili9o234h789	16	I
+	Zu3l56mira2A123	17	S
+	2L3u5isaSantos2222	42	D	4
+	1Zulmira2A7891	17	D	0
+	1AnaL4eb4re34A1	55	I
+	16AnaLebre34A1232	55	I
+	An3a5Lebre34A321	55	I
+	Paul9oPires27894	67	S
+	P63656auloPires1123	23	S
+	1Zulmira2A789	17	S
+	AnaL9ebre34A7894	55	I
+	Luis9aSantos	40	D	4
+	16PauloPires11232	23	S
+	1Lui34345saSantos123(	40	D	4
+	1Tilioh	16	I
+	Pa3u5loPires222	67	I
+	4444Tili9oh7891	16	I
+	16LuisaSantos7894	40	D	4
+	16PauloPires24561	67	S
+	Zulm9ira2A7891	17	S
+	Ti3l5ioh123	16	I
+	1Tomas111321	12	S
+	1Zulmira2A456	17	S
+	Pau8loPires21235	67	S
+	16LuisaSantos3	40	D	4
+	Tomas91114565	12	S
+	An3a5Leb5re34A4256	55	I
+	To3m5as111456	12	S
+	Ana08Lebre34A4565	55	I
+	Luisa9Santos1235	40	D	4
+	Pa3u52loPires1782222	23	S
+	1LuisaSantos456	40	D	4
+	Luis9aSantos7891	40	D	4
+	16Tilioh1232	16	I
+	--------------------------
+	Taxa de Saudaveis: 30.00 % 
+	Taxa de Imunes: 38.00  % 
+	Taxa de Doentes: 32.00 % 
+
+Sala 31
+	Paul9oPires2456	67	S
+	Paul9oPires2789	67	S
+	AnaL9ebre34A1232	55	I
+	16Tomas1113	12	S
+	16Tilioh4561	16	I
+	16AnaLebre34A7894	55	I
+	Pa3u8loPires13	23	S
+	1PauloPires2789	67	I
+	Til8ioh1235	16	I
+	16AnaLebre34A3	55	I
+	--------------------------
+	Taxa de Saudaveis: 40.00 % 
+	Taxa de Imunes: 60.00  % 
+	Taxa de Doentes: 0.00 % 
+
+Sala 32
+	Ana8Lebre34A1235	55	I
+	Pau8loPires11235	23	S
+	Paul9oPires11232	23	S
+	1Zulm4i345ra2A1235	17	S
+	dasa9sdasd3	45	I
+	Luis9aSantos4561	40	D	4
+	da33s5asd6asd456	45	I
+	das08asdasd7894	45	I
+	Toma9s1117891	12	S
+	Ti3l8ioh1232	16	I
+	--------------------------
+	Taxa de Saudaveis: 40.00 % 
+	Taxa de Imunes: 50.00  % 
+	Taxa de Doentes: 10.00 % 
+

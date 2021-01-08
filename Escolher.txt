@@ -1,0 +1,288 @@
+1PauloPires1	23	S
+1AnaLebre34A	55	I
+1Tomas111	12	S
+111PauloPires2	67	D	0
+1LuisaSantos	40	D	4
+1Zulmira2A	17	D	0
+1Tilioh	16	I
+1dasasdasd	45	I
+11PauloPires1789	23	S
+1AnaLebre34A789	55	I
+1Tomas111789	12	S
+1PauloPires2789	67	I
+1LuisaSantos789	40	D	4
+1Zulmira2A789	17	S
+1Tilioh72289	16	I
+1dasasdasd789	45	I
+1PauloPires1456	23	S
+1AnaLebre34A456	55	I
+1Tomas111456	12	S
+1PauloPires2456	67	I
+1LuisaSantos456	40	D	4
+1Zulmira2A456	17	S
+1Tili333oh	56	I
+1dasasdasd456	45	I
+1PauloPires1123	23	S
+1AnaLebre34A123	55	I
+1Tomas111123	12	S
+1PauloPires2123	67	S
+1LuisaSantos123	40	D	4
+1Zulmira2A123	17	S
+1Til46756ioh123	16	I
+1dasasdasd123	45	I
+1PauloPires1321	23	S
+1AnaLebre34A321	55	I
+1Tomas111321	12	S
+1PauloPires2321	67	I
+1LuisaSantos321	40	D	4
+1Zulmira2A321	17	S
+1Til678ioh321	16	I
+1dasasdasd321	45	I
+1PauloPires17891	23	S
+1AnaLebre34A7891	55	I
+1Tomas1117891	12	S
+1PauloPires27891	67	S
+1LuisaSantos7891	40	D	4
+1Zulmira2A7891	17	D	0
+1Til111ioh7891	16	I
+16dasasdasd7891	45	I
+16PauloPires14561	23	S
+16AnaLebre34A4561	55	I
+16Tomas1114561	12	S
+16PauloPires24561	67	S
+16LuisaSantos4561	40	D	4
+16Zulmira2A4561	17	D	0
+16Tilioh4561	16	I
+16dasasdasd4561	45	I
+16PauloPires11232	23	S
+16AnaLebre34A1232	55	I
+16Tomas1111232	12	S
+16PauloPires21232	67	S
+16LuisaSantos1232	40	D	4
+16Zulmira2A1232	17	S
+16Tilioh1232	16	I
+16dasasdasd1232	45	I
+16PauloPires13	23	S
+16AnaLebre34A3	55	I
+16Tomas1113	12	S
+116PauloPires23	67	S
+16LuisaSantos3	40	D	4
+16Zulmira2A3	17	S
+16Tilioh3	16	I
+16dasasdasd3	45	I
+16PauloPires17894	23	S
+16AnaLebre34A7894	55	I
+16Tomas1117894	12	S
+16PauloPires27894	67	S
+16LuisaSantos7894	40	D	4
+16Zulmira2A7894	17	S
+16Tilioh7894	16	I
+16dasasdasd7894	45	I
+16PauloPires14565	23	S
+15AnaLebre34A4565	55	I
+14Tomas1114565	12	S
+143PauloPires2455	67	S
+1L4uisaSantos455	40	D	4
+1Z34ulmira2A4555	17	S
+11Ti5lioh555	16	I
+1da345sasdasd4565	45	I
+1PauloPires11235	23	S
+1Ana3Lebre34A1235	55	I
+1Tom445as1111235	12	S
+1Pau4loPires21235	67	I
+1Lui34345saSantos123(	40	D	4
+1Zulm4i345ra2A1235	17	S
+1Til76543ioh1235	16	I
+1dasas4dasd1236	45	I
+1Pau4lo345Pires11	23	S
+1AnaL4eb4re34A1	55	I
+1Tom5as1345111	12	S
+Pa3u5loPires222	67	I
+2L3u5isaSantos2222	42	D	4
+Zu3l5mira2A222	17	S
+2T3i5lioh22222	16	I
+2d3a5sasdasd2222	45	I
+Pa3u52loPires1782222	23	S
+3A3n5aL2eb2234A7289	55	I
+T43o5mas22111789	12	S
+Pa3345ulo22Pires2789C	67	S
+Lu3i55saSa2ntos789	40	D	4
+Zu3l5m6ira22A789	17	S
+Ti3l5io7h7892	16	I
+da3s5asd8asd7289	45	I
+Pa3u5loPi8res12456	23	S
+An3a5Leb5re34A4256	55	I
+To3m5as111456	12	S
+Pa3u5loP65ires2456	67	I
+Lu3i5saS6antos456	40	D	4
+Zu3l5mira2A456	17	S
+Ti3l5ioh6	16456	I
+da33s5asd6asd456	45	I
+P63656auloPires1123	23	S
+An3a5Lebre34A123	55	I
+To3m56as111123	12	S
+Pa365uloPires2123	67	S
+Lu3i56saSantos123	40	D	4
+Zu3l56mira2A123	17	S
+Ti3l5ioh123	16	I
+da3s5asdasd123	45	I
+Pa3u5loPires1321	23	S
+An3a5Lebre34A321	55	I
+To3m5as111321	12	D	0
+Pa3u5loPires2321	67	I
+Lu3i5saSantos321	40	D	4
+Zu3l5mira2A321	17	S
+Ti3l5ioh321	16	I
+da3s5asdasd321	45	I
+Pa3u5loPires17891	23	S
+An3a5Lebre34A7891	55	I
+To3m5as1117891	12	S
+Pa3u5loPires27891	67	S
+Lu3i5saSantos7891	40	D	4
+Zu3l5mira2A7891	17	S
+Ti3l5ioh7891	16	I
+da3s5asdasd7891	45	I
+Pa3u5loPires14561	23	S
+An3a5Lebre34A4561	55	I
+To3m5as1114561	12	S
+Pa35uloPires24561	67	S
+Lu35isaSantos4561	40	D	4
+Zu35lmira2A4561	17	S
+Ti35lioh4561	16	I
+da35sasdasd4561	45	I
+Pa35uloPires11232	23	D	0
+A838naLebre34A1232	55	I
+T83omas1111232	12	S
+P83auloPires21232	67	I
+L83uisaSantos1232	40	D	4
+Zu3l8mira2A1232	17	S
+Ti3l8ioh1232	16	I
+da3s8asdasd1232	45	I
+Pa3u8loPires13	23	S
+An3a8Lebre34A3	55	I
+To3m8as1113	12	S
+Pa333u8loPires23	67	S
+Lui8saSantos3	40	D	4
+Zu67l8mira2A3	17	S
+Til08ioh3	16	I
+das08asdasd3	45	I
+Pau08loPires17894	23	S
+Ana08Lebre34A7894	55	I
+Tom08as1117894	12	S
+Pau08loPires27894	67	I
+Lui08saSantos7894	40	D	4
+Zul08mira2A7894	17	S
+Til08ioh7894	16	I
+das08asdasd7894	45	I
+Pau08loPires14565	23	S
+Ana08Lebre34A4565	55	I
+Tom08as1114565	12	S
+Pau08loPires2455	67	I
+Lui08saSantos455	40	D	4
+Zul08mira2A4555	17	S
+Til8ioh555	16	I
+das8asdasd4565	45	I
+Pau8loPires11235	23	S
+Ana8Lebre34A1235	55	I
+Tom8as1111235	12	S
+Pau8loPires21235	67	S
+Lui8saSantos1235	40	D	4
+Zul8mira2A1235	17	S
+Til8ioh1235	16	I
+das8asdasd1236	45	I
+Pau89loPires1	23	S
+Ana89Lebre34A	55	I
+Tom89as111	12	S
+Pau89loPires2	67	S
+Luis9aSantos	40	D	4
+Zulm9ira2A	17	S
+Tili9214325t5yoh	16	I
+dasa9sdasd	45	I
+Paul9oPires1789	23	S
+AnaL9ebre34A789	55	I
+Toma9s111789	12	S
+Paul9oPires2789	67	S
+Luis9aSantos789	40	D	4
+Zulm9ira2A789	17	S
+Tili9o234h789	16	I
+dasa9sdasd789	45	I
+Paul9oPires1456	23	S
+AnaL9ebre34A456	55	I
+Toma9s111456	12	D	0
+Paul9oPires2456	67	S
+Luis9aSantos456	40	D	4
+Zulm9ira2A456	17	S
+Ti456456li9oh	56	I
+dasa9sdasd456	45	I
+Paul9oPires1123	23	S
+AnaL9ebre34A123	55	I
+Toma9s111123	12	S
+Paul9oPires2123	67	S
+Luis99aSantos123	40	D	4
+Zulm9ira2A123	17	S
+Tili9o324h123	16	I
+dasa9sdasd123	45	I
+Paul9oPires1321	23	S
+AnaL9ebre34A321	55	I
+Toma9s111321	12	S
+Paul9oPires2321	67	S
+Luis9aSantos321	40	D	4
+Zulm9ira2A321	17	S
+1111T2ili9oh321	16	I
+dasa9sdasd321	45	I
+Paul9oPires17891	23	S
+AnaL9ebre34A7891	55	I
+Toma9s1117891	12	S
+Paul9oPires27891	67	S
+Luis9aSantos7891	40	D	4
+Zulm9ira2A7891	17	S
+4444Tili9oh7891	16	I
+dasa99sdasd7891	45	I
+Paul99oPires14561	23	S
+AnaL9ebre34A4561	55	I
+Toma9s1114561	12	D	0
+Paul99oPires24561	67	S
+Luis9aSantos4561	40	D	4
+Zulm9ira2A4561	17	S
+Til234234i9oh4561	16	I
+dasa99sdasd4561	45	I
+Paul9oPires11232	23	S
+AnaL9ebre34A1232	55	I
+Toma9s1111232	12	S
+Paul99oPires21232	67	S
+Luis9aSantos1232	40	D	4
+Zulm9ira2A1232	17	S
+Tili9o5767456h1232	16	I
+dasa9sdasd1232	45	I
+Paul9oPires13	23	S
+AnaL9ebre34A3	55	I
+Toma9s1113	12	S
+Paul9oPires23	67	S
+Luis9aSantos3	40	D	4
+Zulm9ira2A3	17	S
+Tili9oh3672345	16	I
+dasa9sdasd3	45	I
+Paul9oPires17894	23	S
+AnaL9ebre34A7894	55	I
+Toma9s1117894	12	S
+Paul9oPires27894	67	S
+Luis9aSantos7894	40	D	4
+Zulm9ira2A7894	17	S
+Tili9999oh7894	16	I
+dasas9dasd7894	45	I
+Paulo9Pires14565	23	S
+AnaLe9bre34A4565	55	I
+Tomas91114565	12	S
+Paulo9Pires2455	67	S
+Luisa9Santos455	40	D	4
+Zulmi9ra2A4555	17	S
+Tilio9h555	16	I
+dasas9dasd4565	45	I
+Paulo9Pires11235	23	S
+AnaLe9bre34A1235	55	I
+Tomas91111235	12	S
+Paulo9Pires21235	67	I
+Luisa9Santos1235	40	D	4
+Zulmi9ra2A1235	17	S
+Tilio9h1235	16	I
+dasas9dasd1236	45	I
